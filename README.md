@@ -14,7 +14,7 @@ data in each script would have been more efficient, but this works.
 For the full data set, we pick only the data for the dates of 
 Feb 1 and Feb 2 of 2007.
 
-The four script files here (`plot1.R`, `plot2.R`, `plot3.R`, and `plot4.R`) correspond to the script used 
+The four script files here (`plot1.R`, `plot2.R`, `plot3.R`, and `plot4.R`) correspond to the scripts used 
 to create each of the four plots. Basic explanation of the code is in the scripts. The
 scripts are very simple as all they do is read the data generate the plots using
 apporpriate columns and parameters.
